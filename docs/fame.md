@@ -1,0 +1,18 @@
+Below is an incomplete list of papers that resulted from CSE 227. The goal of
+this class is learn research by doing research and join this hall of fame.
+
+- When Good Instructions Go Bad: Generalizing Return-Oriented Programming to RISC, Erik Buchanan, Ryan Roemer, Hovav Shacham, and Stefan Savage, Proceedings of the ACM Conference on Computer and Communications Security, Washington, D.C., October 2008, pages 27-38.
+- Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding, Benjamin Laxton, Kai Wang, and Stefan Savage, Proceedings of the ACM Conference on Computer and Communications Security, Washington, D.C., October 2008, pages 469-77.
+- Neon: System Support for Derived Data Management, Qing Zhang, John McCullough, Justin Ma, Navil Schear, Michael Vrable, Amin Vahdat, Alex C. Snoeren, and Geoffrey M. Voelker, Proceedings of the ACM International Conference on Virtual Execution Environments (VEE), Pittsburgh, PA, March 2010.
+- Beyond Heuristics: Learning to Classify Vulnerabilities and Predict Exploits, Mehran Bozorgi, Lawrence K. Saul, Stefan Savage, and Geoffrey M. Voelker, Proceedings of the ACM SIGKDD Conference, Washington D.C., July 2010.
+- Reliably Erasing Data From Flash-based Solid State Drives, Michael Wei, Laura M. Grupp, Frederick E. Spada, and Steven Swanson, Proceedings of the 9th USENIX Conference on File and Storage Technologies, San Jose, CA, February 2011.
+- Got Traffic? An Evaluation of Click Traffic Providers, Qing Zhang, Thomas Ristenpart, Stefan Savage, and Geoffrey M. Voelker, Proceedings of the WICOM/AIRWeb Workshop on Web Quality (WebQuality), Hyderabad, India, Mar 2011.
+- Heat of the Moment: Characterizing the Efficacy of Thermal Camera-Based Attacks, Keaton Mowery, Sarah Meiklejohn, and Stefan Savage, Proceedings of the USENIX Workshop On Offensive Technologies (WOOT), San Francisco, CA, August 2011.
+- Judging a site by its content: learning the textual, structural, and visual features of malicious Web pages, Sushma Nagesh Bannur, Lawrence K. Saul, and Stefan Savage, Proceedings of the ACM Workshop on Artificial Intelligence and Security (AISEC), Chicago, IL, October 2011.
+- Eliminating Fine Grained Timers in Xen, Bhanu C. Vattikonda, Sambit Das, and Hovav Shacham, Proceedings of the Cloud Computing Security Workshop (CCSW), October 2011.
+- Return-Oriented Programming: Systems, Languages and Applications, Ryan Roemer, Erik Buchanan, Hovav Shacham, and Stefan Savage, ACM Transactions on Information and System Security 15(1), March 2012.
+- When Good Services Go Wild: Reassembling Web Services for Unintended Purposes, Feng Lu, Jiaqi Zhang, and Stefan Savage, Proceedings of the USENIX Workshop on Hot Topics in Security, Bellevue, WA, August 2012.
+- On The Security of Mobile Cockpit Information Systems, Devin Lundberg, Brown Farinholt, Edward Sullivan, Ryan Mast, Stephen Checkoway, Stefan Savage, Alex C. Snoeren, and Kirill Levchenko, Proceedings of the ACM Conference on Computer and Communications Security, Scottsdale, Arizona, November 2014.
+- Fast and Vulnerable: A Story of Telematic Failures, Ian Foster, Andrew Prudhomme, Karl Koscher, and Stefan Savage, Proceedings of the USENIX Workshop On Offensive Technologies (WOOT), Washington D.C., August 2015.
+- On the (In)effectiveness of Mosaicing and Blurring as Tools for Document Redaction, Steven Hill, Zhimin Zhou, Lawrence Saul, and Hovav Shacham, Privacy Enhancing Technologies Symposium, Darmstadt, Germany, July 2016.
+- Michael Smith, Craig Disselkoen, Shravan Narayan, Fraser Brown, and Deian Stefan.  Browser history re:visited, Proceedings of USENIX Workshop on Offensive Technologies (WOOT). August, 2018.

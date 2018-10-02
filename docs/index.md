@@ -27,10 +27,14 @@ goal of the project is to do original research in computer security that can be
 submitted to a workshop/conference. Part of the project entails a write-up and
 short presentation at the end of the quarter.
 
-SWe will have best paper awards at the end of the quarter.
+We will have best paper awards at the end of the quarter!
 
 ### Meeting time and locating
 
 - **Location:** WLH 2207
 - **Time:** Mondays and Wednesdays 6:30-7:50PM
 
+### Acknowledgements
+
+The course structure and many of the ideas are influenced (or directly from)
+Hovav Shacham, Stefan Savage, and Kirill Levchenko.
